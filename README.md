@@ -11,7 +11,7 @@ Our app allows a user to : <br>
  <li>Input their favourite sports and receive a schedule of all the events happening for those sports.</li>
  <li>Save favourite events of specific sports to a personalised schedule in UK time.</li>
  <li>Remove events from their schedule if they are no longer interested in them.</li>
- <li>Choose between running the app in terminal or browser
+ <li>Choose between running the app in the terminal or the browser.</li>
  <br>
  <br>
 
